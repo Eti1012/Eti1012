@@ -166,7 +166,15 @@
     alt="GitHub Stats"
   />
 </p>
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eti1012&show_icons=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eti1012&layout=compact" alt="Top Languages" />
+</p>
 ### 🔥 GitHub Streak
 
 <p align="center">
