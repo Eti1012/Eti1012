@@ -151,30 +151,33 @@
   </a>
 </p>
 
-### 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eti1012&layout=compact&theme=default" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=eti1012&show_icons=true&theme=default"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eti1012&layout=compact&theme=default"
     alt="Top Languages"
   />
 </p>
 
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=eti1012&show_icons=true&locale=en" 
-    alt="GitHub Stats"
+  <img
+    src="https://streak-stats.demolab.com/?user=eti1012"
+    alt="GitHub Streak"
   />
 </p>
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eti1012&show_icons=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eti1012&layout=compact" alt="Top Languages" />
-</p>
 ### 🔥 GitHub Streak
 
 <p align="center">
