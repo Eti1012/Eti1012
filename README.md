@@ -168,14 +168,7 @@
   />
 </p>
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=eti1012"
-    alt="GitHub Streak"
-  />
-</p>
 
 
 ### 🔥 GitHub Streak
